@@ -18,4 +18,4 @@ https://newsapi.org/v2/top-headlines?country=US&apiKey=eda6154a62744b7bbad849130
 https://newsapi.org/v2/everything?sortedBy=popularity&apiKey=eda6154a62744b7bbad849130a7f77b6f&q=
 ```
 
-<img src="images/Screenshot.png" width="200"> <img src="images/Screenshot1.png" width="200"> <img src="images/Screenshot2.png" width="200">
+<img src="images/Screenshot.png" width="250"> <img src="images/Screenshot1.png" width="250"> <img src="images/Screenshot2.png" width="250">
