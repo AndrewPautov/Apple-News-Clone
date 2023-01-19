@@ -5,7 +5,7 @@ It displays current news, clicking on it will take you to the original source in
 
 ## Tech Stack
 
-**Stack:** Swift, UIKit, URLSession, GCD
+**Stack:** Swift, UIKit, URLSession, GCD, MVC
 
 
 ## API Reference
